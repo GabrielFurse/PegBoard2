@@ -66,8 +66,6 @@ private slots:
     void removePlayer();
     void showContextMenu(const QPoint &pos);
 
-    //buttons
-    void on_pushButton_test_clicked();
 
 
 private:

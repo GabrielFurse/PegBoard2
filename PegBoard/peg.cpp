@@ -245,9 +245,3 @@ void Peg::removePlayer()
 
 
 
-//buttons
-
-void Peg::on_pushButton_test_clicked()
-{
-    this->setName("name");
-}
