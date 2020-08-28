@@ -61,13 +61,6 @@
     </widget>
    </item>
    <item>
-    <widget class="QPushButton" name="pushButton_test">
-     <property name="text">
-      <string>test</string>
-     </property>
-    </widget>
-   </item>
-   <item>
     <widget class="QLabel" name="label_rating">
      <property name="text">
       <string>TextLabel</string>
